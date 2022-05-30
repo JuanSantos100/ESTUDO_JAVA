@@ -2,7 +2,7 @@ public enum Enumeracoes {
     PENDING_PAYMENT,
     PROCESSING,
     SHIPPED,
-    DEVILERED;
+    DELIVERED;
 
     //Todos esses valores serão convertidos para String 
 }
