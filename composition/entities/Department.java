@@ -1,6 +1,5 @@
 package entities;
 
-import java.util.Set;
 
 public class Department {
     private String nome;
